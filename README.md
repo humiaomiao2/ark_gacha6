@@ -3,5 +3,6 @@ Analyzing Akrnights gacha 6-star probability, using common, Markov, and Monte Ca
 
 Requirements:
 - numpy
+- scipy
 - jupyter
 - matplotlib
